@@ -1,0 +1,15 @@
+{
+  "name": "comm100",
+  "version": "1.0.0",
+  "description": "Test for comm100",
+  "scripts": {
+    "test": "testcafe chrome tests/loginTest.js -L "
+  },
+  "repository": {},
+  "private": true,
+  "author": "pradeep",
+  "dependencies": {
+    "faker": "^5.5.2",
+    "testcafe-reporter-html": "1.4.6"
+  }
+}
