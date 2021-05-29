@@ -6,9 +6,11 @@
 1. Install Nodejs using installer or brew command, and set to environment variable.
   https://nodejs.org/en/
 2. Now install testcafe using
-  **npm install -g testcafe**
-3. Clone this project and go to project path and run
+  **npm i -g testcafe**
+3. Install reporter for html reporting (Optional)
+  **npm i -g testcafe-reporter-html**
+5. Clone this project and go to project path and run
   **npm i --save-dev**
-4. Finaly run using 
+5. Finaly run using 
   **npm test**
 
