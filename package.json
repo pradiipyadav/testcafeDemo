@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Test for comm100",
   "scripts": {
-    "test": "testcafe chrome tests/loginTest.js -L "
+    "test": "testcafe chrome tests/loginTest.js --reporter html:reports/index.html"
   },
   "repository": {},
   "private": true,
