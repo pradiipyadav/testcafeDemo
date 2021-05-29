@@ -7,7 +7,7 @@
   https://nodejs.org/en/
 2. Now install testcafe using
   **npm i -g testcafe**
-3. Install reporter for html reporting (Optional)
+3. Install reporter for html reporting
   **npm i -g testcafe-reporter-html**
 5. Clone this project and go to project path and run
   **npm i --save-dev**
